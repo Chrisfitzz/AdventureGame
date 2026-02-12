@@ -2,7 +2,7 @@
 
 This project is a console-based adventure game built to demonstrate core Object-Oriented Programming concepts in Java.
 
-##  Concepts Demonstrated
+##  Concepts involved
 
 - Abstract classes (`Character`)
 - Inheritance (`Wizard`, `Warrior`, `Archer`)
